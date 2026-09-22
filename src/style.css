@@ -1,0 +1,23 @@
+body {
+  background: #111;
+  color: white;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+#lyrics {
+  margin-top: 60px;
+  font-size: 48px;
+  font-weight: bold;
+  min-height: 80px;
+}
+
+.active-char {
+  color: #00ffcc;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
